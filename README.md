@@ -4,6 +4,7 @@ I'm a PhD student at South China University of Technology.
 
 ## 🔥 Open Source Contributions
 - [G2Face](https://github.com/Harxis/G2Face) - Paper of TIFS-2024.
+- [StableGuard](https://github.com/Harxis/StableGuard) - Paper of NeurIPS-2025.
 
 ## 📫 How to reach me
 - Email: [harxis@outlook.com](mailto:harxis@outlook.com)
